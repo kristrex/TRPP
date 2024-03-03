@@ -1,6 +1,12 @@
 # free-for.dev
 
+<<<<<<< HEAD
 Developers and have many services offering free tiers, but finding them all takes time to make informed decisions.
+||||||| e679c91
+Developers and Open Source authors now have many services offering free tiers, but finding them all takes time to make informed decisions.
+=======
+Developers and Open authors now have many services offering free tiers, but finding them all takes time to make informed decisions.
+>>>>>>> branch1
 
 This is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings with free developer tiers.
 
